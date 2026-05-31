@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuave",
+        "uuid": 25273864,
+        "checksum": "tjgi5c"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
